@@ -1,0 +1,28 @@
+body {
+background-image: url(../Images/Background1.png);
+max-height: 1080px;
+max-width: 1920px;
+}
+
+h1 {
+	left: 50%;
+	font-size: 25px;
+	line-height: 1.3em;
+	color: #F8F9FB;
+}
+
+p {
+	font-size: 25px;
+	line-height: 1.3em;
+	color: #F8F9FB;
+}
+
+div.info {
+height: 10em;
+margin: 0;
+position: absolute;
+top: 25%;
+left: 50%;
+margin-right: -50%;
+transform: translate(-50%, -50%)
+}
